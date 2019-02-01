@@ -1,0 +1,21 @@
+Elementos de un formulario:
+
+    *Input    -> Principal elemento del formulario
+    *Label    -> Etiqueta perteneciente a un Input
+    *Select   -> Define una lista desplegable
+        -size
+    *Textarea -> Define un campo de texto de multiples líneas (área de texto)
+        -rows/cols
+    *Button
+
+Tipos de input:
+
+    *text
+    *password
+    *email
+    *submit
+    *reset
+    *radio
+        -checked
+    *checkbox
+    *button
